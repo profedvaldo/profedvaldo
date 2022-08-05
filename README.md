@@ -12,8 +12,9 @@ Siga nas minhas redes sociais!
 |[Twitter](https://twitter.com/edvaldoaero)
 |[Linkedin](https://www.linkedin.com/in/edvaldo-rodrigues/)
 |[Facebook](https://www.facebook.com/edvaldoaero/)
-|[Instagram](https://www.instagram.com/edvaldorodriguesbr/)
+|[Instagram](https://www.instagram.com/edvaldo.tec.br/)
 
+Visit _> https://edvaldo.tec.br/
 
 
 <!--
