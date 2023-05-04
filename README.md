@@ -4,9 +4,7 @@ Professor de Tecnologia, desde 2013, ama a área como um todo...
 Sempre estou interessado em criar e manter negócios e relações, criei a EDRONET, em 2011, que atua na área de cursos e treinamentos e portais para jornais.
 Tenho Orgulho em fazer parte do programa EMPRETEC, programa em parceria com o SEBRAE e a ONU, sou "EMPRETECO" desde 2017.
 
-
-    <table><tr><td style="padding: 0; width=50%">
-      <img src="https://github-readme-stats.vercel.app/api/?username=profedvaldo&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=true" /></td>
+   <table><tr>
       <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profedvaldo&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&count_private=false&hide_border=true&hide_title=true" /></td></tr></table>  
   <code align=center>› Contact me for more information. Discord: GR#6603</code>
   <br>
