@@ -16,7 +16,7 @@ Siga nas minhas redes sociais!
 <a href="https://www.facebook.com/edvaldo.tech/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/edvaldo.tech/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
-Visit _> https://edvaldo.tec.br/
+Visit _> https://edvaldo.tec.br/ <br>
         <a href="https://edronet.com/">
           <img src="https://edronet.com/assets/images/logo-250.webp" alt="EDRONET Logo" width="250" height="60">
         </a>
