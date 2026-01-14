@@ -18,7 +18,7 @@ Siga nas minhas redes sociais!
 
 Visit _> https://edvaldo.tec.br/
         <a href="https://edronet.com/">
-          <img src="assets/images/logo-250.webp" alt="EDRONET Logo" width="250" height="60">
+          <img src="https://edronet.com/assets/images/logo-250.webp" alt="EDRONET Logo" width="250" height="60">
         </a>
 
 <!--
