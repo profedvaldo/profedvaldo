@@ -20,6 +20,7 @@ Visit _> https://edvaldo.tec.br/ <br>
         <a href="https://edronet.com/">
           <img src="https://edronet.com/assets/images/logo-250.webp" alt="EDRONET Logo" width="250" height="60">
         </a>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=profedvaldo&layout=compact&theme=dracula)
 
 <!--
 **profedvaldo/profedvaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
